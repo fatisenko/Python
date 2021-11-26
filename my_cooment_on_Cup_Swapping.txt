@@ -1,0 +1,8 @@
+Sevgili Fatih
+yazdığın kodu bir kaç kere çalıştırdım ancak ilginç sonuçlar verdi.
+
+Normalde diyelim başlangış B
+BA-AC yaptık. şimdi top C de olmalı.
+seninkinin algoritması biraz farklı olabilir mi acaba?
+
+Yine güzel bir çalışma olmuş.Dediğime bir bakmakta fayda var.
